@@ -109,4 +109,4 @@ venv.bak/
 *.cre.py
 cre/data/
 hand-in/*.zip
-data/
+data/openml/
