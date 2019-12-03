@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 */tb_logs/
 */tb_logs_keras/
+*.h5
 
 # C extensions
 *.so
