@@ -5,6 +5,7 @@ __pycache__/
 */tb_logs/
 */tb_logs_keras/
 *.h5
+jeh/data/*
 data/*
 
 # C extensions
